@@ -1,0 +1,807 @@
+[
+  {
+    "slide_number": 1,
+    "paragraphs": [
+      {
+        "paragraphContent": "以弗所书 Ephesians",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "第一讲 保罗与以弗所教会 （以弗所书1:1-2）",
+        "level": 0,
+        "content_type": ""
+      }
+    ]
+  },
+  {
+    "slide_number": 2,
+    "paragraphs": [
+      {
+        "paragraphContent": "历史文化背景",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "以弗所城",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "罗马帝国最富庶地区的主要城市 （类似于上海或者广州）",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "人口约25万，仅次于罗马城和亚历山大城",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "小亚细亚（Asia Minor）省会",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "国际化, 多民族（Cosmopolitan & Multi-ethnic）",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "主要是外邦人，也有犹太社区并存",
+        "level": 2,
+        "content_type": ""
+      }
+    ]
+  },
+  {
+    "slide_number": 3,
+    "paragraphs": [
+      {
+        "paragraphContent": "以弗所教会建立过程",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "保罗第二次宣教",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "宣教负担",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "徒16:6-8",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "保罗会堂辩论(AD 52)",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "徒Acts 18:18-21",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "亚波罗讲道",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "徒18:24-28",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "起初的福音是没有圣灵的福音",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "“只管生不管养”",
+        "level": 1,
+        "content_type": ""
+      }
+    ]
+  },
+  {
+    "slide_number": 4,
+    "paragraphs": [
+      {
+        "paragraphContent": "以弗所教会建立过程",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "保罗第三次宣教中",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "AD53",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "徒19:1-12",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "十二人接受圣灵",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "三个月会堂讲道",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "两年推喇奴学院讲道",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "保罗在以弗所牧会三年",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "AD53-55/56",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "徒Acts 20:13-35",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "“三年昼夜不住地流泪劝诫”V31",
+        "level": 2,
+        "content_type": ""
+      }
+    ]
+  },
+  {
+    "slide_number": 5,
+    "paragraphs": [
+      {
+        "paragraphContent": "教会背景",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "人员构成",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "犹太人，外邦人",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "地区本土信仰",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "多神信仰",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "万物有灵论（Animism）",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "宙斯 （宙斯神殿是奥林匹克运动会的发源地）",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "阿提密斯（宙斯女儿，罗马人称为“戴安娜” Diana，月亮女神）",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "阿提密斯神殿（阿尔忒弥斯神庙，亚底米神庙，戴安娜神庙）",
+        "level": 3,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "古代世界七大奇迹之一",
+        "level": 4,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "希腊宗教中的女神，掌管野生动物、狩猎、植被、贞洁和生育",
+        "level": 4,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "体现了运动者的理想，荷马史诗中动物女主人（Mistress of Animals）",
+        "level": 4,
+        "content_type": ""
+      }
+    ]
+  },
+  {
+    "slide_number": 6,
+    "paragraphs": [
+      {
+        "paragraphContent": "地区本土信仰 （cont’d）",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "魔力，邪灵（使徒行传19:17-20）",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "exorkistes (ἐξορκιστής, G1845) ，藉召唤超然存在体驱赶邪灵的人 (V13“念咒赶鬼”）",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "periergos (περίεργος, G4021) to undue or misdirected curiosity, as in the practice of magic, belonging to magic 滥用或误用好奇心，如在魔术的练习中，属于魔术 （V19 “行邪术的”）",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "假教师（提前1:3-4）",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "启示录2:1-7",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "有正确的教义和表面的服事",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "服事中没有与神形成正确的关系",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "律法主义，实用主义，形式主义",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "教会背景",
+        "level": 0,
+        "content_type": ""
+      }
+    ]
+  },
+  {
+    "slide_number": 7,
+    "paragraphs": [
+      {
+        "paragraphContent": "以弗所书写作背景",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "执笔作者：使徒保罗",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "写作时间： AD 60-62",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "以弗所教会建立7~10年",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "写作地点：罗马监狱",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "以弗所教会三个问题",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "属灵征战",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "生活方式",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "Sexual immorality(奸淫、污秽)",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "醉酒……",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "教会内外邦人与犹太人合一问题",
+        "level": 1,
+        "content_type": ""
+      }
+    ]
+  },
+  {
+    "slide_number": 8,
+    "paragraphs": [
+      {
+        "paragraphContent": "ἀποστέλλω",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "“to send forth to service in the kingdom of God with full authority (grounded in God).”",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "ἀποστέλλειν希腊语的基本含义是 “送出”, 在新约中指“以完全的权柄（以神为根基）派遣到神的国度中服务”。",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "——K.H. Rengstorf, 新约神学词典（TDNT）, 1964",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "Even more significant is its meaning, for the NT uses this noun only in the sense of “messenger,” and partic. as the fixed designation of a definite Christian office新约只在 \"信使 \"的意义上使用这个名词，尤其是作为一个确定的基督徒职位的固定名称。",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "——M. Silva, Ed., 新约神学与注释新国际词典(NIDNTTE), 2014",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "Paul, an apostle of Christ Jesus by the will of God,",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "To the saints who are at Ephesus and who are faithful in Christ Jesus: Grace to you and peace from God our Father and the Lord Jesus Christ.",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "奉神旨意做基督耶稣使徒的保罗，",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "写信给在以弗所的圣徒，就是在基督耶稣里有忠心的人。 愿恩惠、平安从神我们的父和主耶稣基督归于你们！",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "Παῦλος ἀπόστολος Χριστοῦ Ἰησοῦ διὰ θελήματος θεοῦ τοῖς ἁγίοις τοῖς οὖσιν [ἐν Ἐφέσῳ] καὶ πιστοῖς ἐν Χριστῷ Ἰησοῦ·",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "——以弗所书1:1-2",
+        "level": 0,
+        "content_type": ""
+      }
+    ]
+  },
+  {
+    "slide_number": 9,
+    "paragraphs": [
+      {
+        "paragraphContent": "三次重复出现父神",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "父神给予这封保罗书信的权柄神的主权和意志",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "父神是恩典和平安的来源",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "父神是“我们的父”（ πατρὸς ），强调教会和神的关系，奠定书信的基调",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "不是教徒和教主，而是父亲和子女的关系",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "Paul, an apostle of Christ Jesus by the will of God,",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "To the saints who are at Ephesus and who are faithful in Christ Jesus: Grace to you and peace from God our Father and the Lord Jesus Christ.",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "奉神旨意做基督耶稣使徒的保罗，",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "写信给在以弗所的圣徒，就是在基督耶稣里有忠心的人。 愿恩惠、平安从神我们的父和主耶稣基督归于你们！",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "Παῦλος ἀπόστολος Χριστοῦ Ἰησοῦ διὰ θελήματος θεοῦ τοῖς ἁγίοις τοῖς οὖσιν [ἐν Ἐφέσῳ] καὶ πιστοῖς ἐν Χριστῷ Ἰησοῦ·",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "——以弗所书1:1-2",
+        "level": 0,
+        "content_type": ""
+      }
+    ]
+  },
+  {
+    "slide_number": 10,
+    "paragraphs": [
+      {
+        "paragraphContent": "三次重复出现耶稣基督",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "基督 The Anointed One",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "君王，祭司，先知",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "耶稣：耶和华是救恩 （Yahweh is salvation）",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "三次父神，三次耶稣，强调父和子的不可分割",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "耶稣是使徒的差遣者和所有者（genitive， 属格/所有格Χριστοῦ，OF Christ Jesus ）",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "耶稣与父神无法分割同样是恩典与平安的来源",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "Paul, an apostle of Christ Jesus by the will of God,",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "To the saints who are at Ephesus and who are faithful in Christ Jesus: Grace to you and peace from God our Father and the Lord Jesus Christ.",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "奉神旨意做基督耶稣使徒的保罗，",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "写信给在以弗所的圣徒，就是在基督耶稣里有忠心的人。 愿恩惠、平安从神我们的父和主耶稣基督归于你们！",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "Παῦλος ἀπόστολος Χριστοῦ Ἰησοῦ διὰ θελήματος θεοῦ τοῖς ἁγίοις τοῖς οὖσιν [ἐν Ἐφέσῳ] καὶ πιστοῖς ἐν Χριστῷ Ἰησοῦ·",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "——以弗所书1:1-2",
+        "level": 0,
+        "content_type": ""
+      }
+    ]
+  },
+  {
+    "slide_number": 11,
+    "paragraphs": [
+      {
+        "paragraphContent": "圣徒：分别为圣为服事神的以弗所书的收信人是以弗所的圣徒",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "你们有些人过去是这样，但是藉着主耶稣基督的名，藉着我们神的灵，你们已经被洗净了，被分别为圣了，被称为义了。——林前6:11（标准译本）",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "所有的基督徒都是圣徒⇔ 不是圣徒的就不是基督徒",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "“没有一个不圣洁的人会是一个信徒，也没有一个非信徒会是圣洁的”——Dr. William Temple",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "“分别为圣”在“忠心”之前",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "直译：写信给圣徒，那些在以弗所的，忠心的在基督耶稣里的",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "Paul, an apostle of Christ Jesus by the will of God,",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "To the saints who are at Ephesus and who are faithful in Christ Jesus: Grace to you and peace from God our Father and the Lord Jesus Christ.",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "奉神旨意做基督耶稣使徒的保罗，",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "写信给在以弗所的圣徒，就是在基督耶稣里有忠心的人。 愿恩惠、平安从神我们的父和主耶稣基督归于你们！",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "Παῦλος ἀπόστολος Χριστοῦ Ἰησοῦ διὰ θελήματος θεοῦ τοῖς ἁγίοις τοῖς οὖσιν [ἐν Ἐφέσῳ] καὶ πιστοῖς ἐν Χριστῷ Ἰησοῦ·",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "——以弗所书1:1-2",
+        "level": 0,
+        "content_type": ""
+      }
+    ]
+  },
+  {
+    "slide_number": 12,
+    "paragraphs": [
+      {
+        "paragraphContent": "直译：写信给圣徒，那些在以弗所的，忠心的在基督耶稣里的",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "“分别为圣”在“忠心”之前",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "忠心的前提是在基督耶稣里",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "在耶稣基督里必然分别为圣",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "“在”，present tense，现在式，表示当下",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "保罗这里对教会的定义强调信徒的当下的分别为圣和信心",
+        "level": 2,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "信实的范本和定义是在耶稣基督里，即如耶稣基督一般",
+        "level": 3,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "Paul, an apostle of Christ Jesus by the will of God,",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "To the saints who are at Ephesus and who are faithful in Christ Jesus: Grace to you and peace from God our Father and the Lord Jesus Christ.",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "奉神旨意做基督耶稣使徒的保罗，",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "写信给在以弗所的圣徒，就是在基督耶稣里有忠心的人。 愿恩惠、平安从神我们的父和主耶稣基督归于你们！",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "Παῦλος ἀπόστολος Χριστοῦ Ἰησοῦ διὰ θελήματος θεοῦ τοῖς ἁγίοις τοῖς οὖσιν [ἐν Ἐφέσῳ] καὶ πιστοῖς ἐν Χριστῷ Ἰησοῦ·",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "——以弗所书1:1-2",
+        "level": 0,
+        "content_type": ""
+      }
+    ]
+  },
+  {
+    "slide_number": 13,
+    "paragraphs": [
+      {
+        "paragraphContent": "“圣徒”“在基督耶稣里有忠心”是在恩惠平安之前",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "只有分别为圣，才有接受神的恩典和平安的可能",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "只有在耶稣基督里有忠心，才有接受神的恩典和平安的可能",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "父神的意愿：一切圣徒，一切在耶稣基督里有忠心的人，蒙受恩典，享有平安！",
+        "level": 1,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "Paul, an apostle of Christ Jesus by the will of God,",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "To the saints who are at Ephesus and who are faithful in Christ Jesus: Grace to you and peace from God our Father and the Lord Jesus Christ.",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "奉神旨意做基督耶稣使徒的保罗，",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "写信给在以弗所的圣徒，就是在基督耶稣里有忠心的人。 愿恩惠、平安从神我们的父和主耶稣基督归于你们！",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "Παῦλος ἀπόστολος Χριστοῦ Ἰησοῦ διὰ θελήματος θεοῦ τοῖς ἁγίοις τοῖς οὖσιν [ἐν Ἐφέσῳ] καὶ πιστοῖς ἐν Χριστῷ Ἰησοῦ·",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "——以弗所书1:1-2",
+        "level": 0,
+        "content_type": ""
+      }
+    ]
+  },
+  {
+    "slide_number": 14,
+    "paragraphs": [
+      {
+        "paragraphContent": "作业",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "通读以弗所书至少两遍",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "结合课程所学，总结以弗所教会的建立过程和以弗所书的历史文化背景 (需要上交)",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "阅读《麦克阿瑟新约注释·以弗所书》（以后称为《麦克阿瑟》）1-16页",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "阅读钟马田《以弗所书·神终极的心意》 （以后称为《钟马田》）1-40页",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "结合所学和所读，总结对以弗所书1:1-2的经文查经收获，写成不少于200字短文 (需要上交)",
+        "level": 0,
+        "content_type": ""
+      },
+      {
+        "paragraphContent": "预习《以弗所书》1:3-14，用解析式查经的方法进行观察和释经提问（自行完成，学院不收预习作业）",
+        "level": 0,
+        "content_type": ""
+      }
+    ]
+  }
+]
