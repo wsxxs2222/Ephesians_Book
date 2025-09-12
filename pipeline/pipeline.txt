@@ -1,0 +1,18 @@
+audio to text content (google colab)
+
+ppt to title
+ppt to image
+restore punctuation for sentences
+combine content sentences to text block
+match title with content
+title and content to latex
+
+todo:
+auto create latex folder for each lecture, auto paste the vscode configuration folder into the directory so the tex file is compiled using XeLatex.
+fix the bug that some titles are missing when combining title and content to latex. The title object file does not miss the titles.
+
+improvement:
+improve title and content matching algorithm. Replace word similarity with semantic similarity.
+preserve the original punctuations or add new punctuations after content matching.
+let each line contain only 1-2 sentences (max of 2 sentences or ? characters).
+record common mis-classified words and create a map to map them to correct words. (same step as restore punctuation)

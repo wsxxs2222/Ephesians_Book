@@ -39,6 +39,26 @@ def json_to_latex(title_file, content_file, output_file):
     latex_lines = [
         r"\documentclass[lang=cn,newtx,10pt,scheme=chinese]{elegantbook}",  # ctex for Chinese
         r"\begin{document}",
+        r"\usepackage{graphicx}",
+        r"\usepackage{fontspec}",
+        r"\setmainfont{Times New Roman}[",
+        "  Ligatures=TeX,"
+        "  Script=Latin,",
+        "  Script=Greek",
+        r"]",
+        "",
+        r"\tcbset{",
+        r"  mybox/.style={",
+        "    colframe=black,",
+        "    colback=white,",
+        "    boxrule=0.8pt,",
+        "    arc=0mm,",
+        "    left=6pt,",
+        "    right=6pt,",
+        "    top=6pt,",
+        "    bottom=6pt",
+        r"  }",
+        r"}",
         ""
     ]
 
